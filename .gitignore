@@ -4,4 +4,9 @@ qao_env
 db.sqlite3
 =======
 qao_env/
+<<<<<<< HEAD
 >>>>>>> ef39d225c260a95f7bdd2633783ca7498bfba9b9
+=======
+
+db.sqlite3
+>>>>>>> 636ab158f98092d1f1aa94bfe6e62d0be028da77
